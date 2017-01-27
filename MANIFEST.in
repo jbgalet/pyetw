@@ -1,0 +1,3 @@
+include *.c *.h *.cpp *.hpp
+include krabsetw/krabs
+recursive-include krabsetw *.hpp
